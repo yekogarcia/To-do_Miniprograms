@@ -1,0 +1,11 @@
+{
+  "subPackageBuildType": "shared",
+  "pages": [
+    "pages/index/index",
+    "pages/add-todo/add-todo"
+  ],
+  "window": {
+    "defaultTitle": "My App"
+  },
+  "useDynamicPlugins": false
+}

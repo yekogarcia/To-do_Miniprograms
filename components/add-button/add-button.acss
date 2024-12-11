@@ -1,0 +1,14 @@
+.add-button {
+  display: inline-block;
+  background: none;
+  background-color: #277ddf;
+  color: #FFF;
+  border: none;
+  width: 400rpx;
+}
+
+.add-icon {
+  font-size: 52rpx;
+  color: #fff;
+  margin-right: 10rpx;
+}
